@@ -474,11 +474,11 @@ export function Footer() {
               </li>
               <li>
                 <a 
-                  href="tel:+923001234567" 
+                  href="tel:+92 3004742092" 
                   className="flex items-center gap-3 group transition-colors"
                 >
                   <Phone size={17} className="flex-shrink-0 text-[#B68D40]" />
-                  <span className="group-hover:text-white transition-colors">+92 300 1234567</span>
+                  <span className="group-hover:text-white transition-colors">+92 300 4742092</span>
                 </a>
               </li>
               <li>
@@ -487,7 +487,7 @@ export function Footer() {
                   className="flex items-center gap-3 group transition-colors"
                 >
                   <Mail size={17} className="flex-shrink-0 text-[#B68D40]" />
-                  <span className="group-hover:text-white transition-colors break-all">support@ozstore.pk</span>
+                  <span className="group-hover:text-white transition-colors break-all">ozstore02@.pk</span>
                 </a>
               </li>
             </ul>

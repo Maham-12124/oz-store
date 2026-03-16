@@ -268,7 +268,7 @@ export function Header() {
       <div className="bg-[#2D1B0F] text-[#F5F5DC] text-xs py-2 px-4 hidden md:block border-b border-[#3D2B1F]">
         <div className="max-w-7xl mx-auto flex justify-between items-center opacity-90">
           <div className="flex items-center gap-4">
-            <span className="flex items-center gap-1"><Phone size={11} /> +92 300 1234567</span>
+            <span className="flex items-center gap-1"><Phone size={11} /> +92 300 4742092</span>
             <span className="flex items-center gap-1"><MapPin size={11} /> Free delivery on orders over Rs. 2,000</span>
           </div>
           <div className="flex items-center gap-4 font-medium">
